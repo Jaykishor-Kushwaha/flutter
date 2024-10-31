@@ -27,7 +27,7 @@ class MyApp extends StatelessWidget {
                 style: TextStyle(fontSize: 50.0),
               ),
               const Image(
-                image: AssetImage('assets/acura_logo.png'),  // Ensure this file exists in your assets folder
+                image: AssetImage('assets/jay.png'),  // Ensure this file exists in your assets folder
               ),
               Text(
                 'Welcome to NUV',
